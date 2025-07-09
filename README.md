@@ -1,1 +1,1 @@
-# Appoinment-Booking-App
+# Appointment-Booking-App
