@@ -1,1 +1,1 @@
-# Appointment-Booking-App
+# Curely-Doctor-Appointment
